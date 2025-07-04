@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Unreal Engine 5**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **Game Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://teletabitrifasico.github.io](https://teletabitrifasico.github.io)
 
