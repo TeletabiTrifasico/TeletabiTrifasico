@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teletabitrifasico" alt="teletabitrifasico" /></a> </p>
 
-- 🌱 I’m currently learning **Unreal Engine 5**
+- 🌱 I’m currently learning **Godot**
 
 - 👯 I’m looking to collaborate on **Game Development Projects**
 
