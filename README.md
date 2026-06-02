@@ -47,16 +47,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TeletabiTrifasico&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeletabiTrifasico&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=TeletabiTrifasico&hide_border=true&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TeletabiTrifasico&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="trophies" />
 </p>
 
 ---
